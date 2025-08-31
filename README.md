@@ -27,10 +27,8 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⢯⣆⣀⣀⣀⣀⣀⣀⣀⣀⣀⣂⣀⣌⣷⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣃⣤⠾⠋⢠⡇⡀⣿⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠈⠀⠀⠉⠉⠉⠁⠁⠀⠀⠀⠀⠈⠉⠉⠛⠛⠛⠛⠛⠛⠛⠛⠛⠉⠉⠉⠀⠀⠀⠈⠛⠟⠁⠀⠀⠀⠀
 ```bash
-curl -X GET https://shyybi.me/api/whoami
-```
 
-```
+``
 {	
     "profile": {
         "username": "maddie",
@@ -38,3 +36,4 @@ curl -X GET https://shyybi.me/api/whoami
         "country": "France",
     }	
 }
+``
