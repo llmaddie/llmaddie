@@ -1,7 +1,7 @@
 
- Hi I'm Maddie An 16y  Low level dev, Reverse Engineer, system pwn enjoyer 
+ Hi I'm Maddie An 16y  Low level dev, Reverse Engineer, Malware Analyst and game hacking enjoyer 
  I currently work on [vulnreach](https://github.com/vulnreach)
-    also i dev my own c++ / C compiler 
+    also i dev my own c++ / C compiler and a lot of other cool project 
 Reach me at : ***contactmaddi3@gmail.com***
 
 
