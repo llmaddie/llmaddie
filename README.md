@@ -1,6 +1,46 @@
+<pre>
+  ════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════  
 
- Hi I'm Maddie A 16y  Low level dev, Reverse Engineer, physics, Malware Analyst and Art lover
- I currently work on [AuriOS](https://auri-os.org)
-    and a lot of other cool project 
+                    Cryptograhy -  Reverse Engineering - Binary Exploitation - math/physics enjyer 
+         ╔══════════════╗
+         ║   LANGUAGES  ║ 
+         ║══════════════║  
+         ║  .NET Golang ║  
+         ║  C, Assembly ║             
+         ║ Rust, Cpp,   ║                                                             ,         ,
+         ╚══════════════╝                                                             |\\\\ ////|
+                                                                                      | \\\V/// |
+                                                                                      |  |~~~|  |
+                                          'Trans right are human right!'              |  |===|  |
+                                                                                      |  |j  |  |
+                                                                                      |  | g |  |
+       .---.                                                                           \ |  s| /
+      /     \                                                                           \|===|/                                               
+      \.@-@./                                                                            '---'
+      /`\_/`\               
+     //  _  \\                         
+    | \     )|_           
+   /`\_`>  <_/ \             
+   __/'---'\__/           
+                                                                                                   
+         
+         ╔════════════════════════════════════════════════════════════════════════════════════════════════════╗
+         ║                                           SELECTED PROJECTS                                        ║
+         ╠════════════╤════════╤══════════════════════════════════════════════════════════════════════════════╣
+         ║  <a href="https://github.com/auri-os/AuriOS">AuriOS</a>    │ C      │ Kernel from scratch   for safety and full user control                       ║     
+         ║            │ ASM    │                                                                              ║
+         ║————————————┼————————┼——————————————————————————————————————————————————————————————————————————————║
+         ║ <a href="https://github.com/llmaddie/hookicorn">hookicorn</a>  │ C      │A modular x86_64 shellcode analyzer  with real-time memory monitoring.        ║
+         ║————————————┼————————┼——————————————————————————————————————————————————————————————————————————————║
+         ║  <a href="https://github.com/llmaddie/Bin2Src">Bin2Src</a>    │ C++    │ advanced dll decompiler                                                     ║
+         ╚════════════╧════════╧══════════════════════════════════════════════════════════════════════════════╝
 
-feel free to ask me anything at : ***m@maddie.rip***
+             
+                /========================================================================================\
+              < |                                     "just have fun"                                    | >
+                \========================================================================================/
+
+                twitter: <a href="https://x.com/d0llcorps3">d0llcorps3</a>            website: <a href="https://maddie.rip">maddie.rip</a>               email: m@maddie.rip
+
+  ════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+</pre>
