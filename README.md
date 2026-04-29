@@ -1,7 +1,7 @@
 <pre>
   ════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════  
 
-                    Cryptograhy -  Reverse Engineering - Binary Exploitation - math/physics enjyer 
+                    Cryptograhy -  Reverse Engineering - Binary Exploitation - math/physics enjoyer 
          ╔══════════════╗
          ║   LANGUAGES  ║ 
          ║══════════════║  
