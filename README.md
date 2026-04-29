@@ -40,7 +40,7 @@
               < |                                     "just have fun"                                    | >
                 \========================================================================================/
 
-                twitter: <a href="https://x.com/d0llcorps3">d0llcorps3</a>            website: <a href="https://maddie.rip">maddie.rip</a>               email: m@maddie.rip
+                twitter: <a href="https://x.com/d0llcorps3">d0llcorps3</a>            website: <a href="https://maddie.rip">maddie.rip</a>               email: <a href="mailto:m@maddie.rip">m@maddie.rip</a>
 
   ════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 </pre>
