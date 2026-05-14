@@ -6,7 +6,7 @@
          ║   LANGUAGES  ║ 
          ║══════════════║  
          ║  .NET Golang ║  
-         ║  C, Assembly ║             
+         ║  C, Assembly ║             Researcher x red teaming 
          ║ Rust, Cpp,   ║                                                             ,         ,
          ╚══════════════╝                                                             |\\\\ ////|
                                                                                       | \\\V/// |
