@@ -33,7 +33,7 @@
          ║ <a href="https://github.com/llmaddie/hookicorn">hookicorn</a>  │ C      │A modular x86_64 shellcode analyzer  with real-time memory monitoring.        ║
          ║————————————┼————————┼——————————————————————————————————————————————————————————————————————————————║
          ║ <a href="https://github.com/llmaddie/vantablack">vantablack</a> │ Rust   │ is a lightweight, research-focused Type-2 hypervisor                         ║
-         ║            ┼        ┼  implemented as a Linux Kernel Module (LKM)                                  ║
+         ║            ┼        ┼  implemented as a Windows Kernel Module                                      ║
          ╚════════════╧════════╧══════════════════════════════════════════════════════════════════════════════╝
 
              
