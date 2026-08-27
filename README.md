@@ -1,12 +1,12 @@
 <pre>
   ════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════  
 
-                    Cryptograhy -  Reverse Engineering - Binary Exploitation - maths/physics enjoyer - Quantum
+                    
          ╔══════════════╗
          ║   LANGUAGES  ║ 
          ║══════════════║  
          ║  .NET Golang ║  
-         ║  C, Assembly ║             Researcher x red teaming 
+         ║  C, Assembly ║              
          ║ Rust, Cpp,   ║                                                             ,         ,
          ╚══════════════╝                                                             |\\\\ ////|
                                                                                       | \\\V/// |
