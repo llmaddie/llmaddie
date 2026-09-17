@@ -11,7 +11,7 @@
          ╚══════════════╝                                                             |\\\\ ////|
                                                                                       | \\\V/// |
                                                                                       |  |~~~|  |
-                                          'Trans rights are human right!'              |  |===|  |
+                                          'Trans rights are human rights!'              |  |===|  |
                                                                                       |  |j  |  |
                                                                                       |  | g |  |
        .---.                                                                           \ |  s| /
